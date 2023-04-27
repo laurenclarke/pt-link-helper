@@ -7,7 +7,9 @@ Chrome plugin to help with aspects of linking to and from Pivotal Tracker
 3. Click `Load Unpacked`
 4. Select the local folder you used for the clone.
 
-Once installed. Refresh any page you wish to use the extension in. And the following features will be available. 
+Once installed. Refresh any page you wish to use the extension in. 
+
+The following features will be available in Chrome while the extension is loaded.
 
 ## PT Paste Helper
 1. Get any URL on the clipbard. Eg: google doc url.
