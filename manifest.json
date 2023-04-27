@@ -1,0 +1,11 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"PT Link Helpers",
+    "content_scripts":[
+      {
+       "matches":["*://*.pivotaltracker.com/*","file:///*"],
+       "js":["main.js"]
+      }
+    ]
+  }
