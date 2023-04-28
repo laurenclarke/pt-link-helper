@@ -4,8 +4,9 @@
     "name":"PT Link Helpers",
     "content_scripts":[
       {
-       "matches":["*://*.pivotaltracker.com/*","file:///*"],
-       "js":["main.js"]
+       "css": ["styles.css"],
+       "js":["main.js"],
+       "matches":["*://*.pivotaltracker.com/*","file:///*"]
       }
     ]
   }
