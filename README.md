@@ -4,8 +4,9 @@ Chrome plugin to help with aspects of linking to and from Pivotal Tracker
 ## Installation
 1. Clone the repo to local folder
 2. `chrome://extensions/`
-3. Click `Load Unpacked`
-4. Select the local folder you used for the clone.
+3. Turn on `Developer mode`
+4. Click `Load Unpacked`
+5. Select the local folder you used for the clone.
 
 Once installed. Refresh any page you wish to use the extension in. 
 
