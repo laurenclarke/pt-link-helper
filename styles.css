@@ -1,3 +1,8 @@
 .tracker_markup a {
   text-decoration: underline !important;
 }
+
+/* trim the leading @ from usernames */
+span[class^="username_"] {
+  text-indent: -1.5ch; /* width of @ is approx 1.5 width of 0 */
+}  
