@@ -17,11 +17,12 @@ The following features will be available/visible in Chrome while the extension i
 2. In PT text box (comment, description etc), select link text and paste.
 3. Selected text will be replaced with Markdown for the link.
 
-## PT Copy Link Helper
+## PT Copy Link Helper (extension)
+The native copy link helper in PT gets only the URL. This extension adds the ability to build a link (both html and markdown) with the story name in it. 
 1. Hold CTRL key down when clicking the Copy Link button on any Story or Epic.
 2. The link will be placed on the clipboard in both HTML and Plain text (markdown).
 3. Paste into target (gdoc, email etc).
 
 ## Modest styling tweaks
 1. Make links in tracker markup more discoverable (underline them).
-2. Trim the @ symbol prefix from username headers.
+2. Trim the @ symbol prefix from username headers. ie Remove the [Stroop effect](https://en.wikipedia.org/wiki/Stroop_effect) nature of the @ prefix PT puts on comment authors. 
